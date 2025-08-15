@@ -14,7 +14,7 @@ Clone the repository
 
 ## **Copy the .env file and setup required configurations and create an application key**
 ```bash
-    cp .env.example .env
+    cp .env.example .env && php artisan key:generate
 ```
 
 ## **Create new database named 'product_feedback' with collation of 'utf8mb4_unicode_ci' and provide this name on .env file.**
