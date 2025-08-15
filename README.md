@@ -57,3 +57,9 @@ Clone the repository
 ```
 
 ## **The backend will run on http://127.0.0.1:8000 by default.**
+
+## TEsting login credentials
+```bash
+    email : developer1@example.com
+    password : password
+```
